@@ -2,6 +2,10 @@
 
 > D3Q19 Cascaded LBM + Immersed Boundary Method，NACA 0012 翼型预设俯仰-沉浮运动
 
+## 演示
+
+<video src="vel2d.mp4" controls width="700"></video>
+
 ## 项目简介
 
 在三维结构化格子上对 **NACA 0012 翼型**的预设运动（俯仰 + 沉浮）进行流固耦合仿真。翼型沿 z 方向均匀延伸，x-y 平面上按解析运动学公式做周期性振荡。
